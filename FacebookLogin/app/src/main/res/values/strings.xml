@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="titulo">Facebook</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrar">Registrar</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
